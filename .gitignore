@@ -1,0 +1,8 @@
+node_modules
+build
+npm-debug.log
+application/.env
+application/storage/logs/*
+.idea
+.vscode
+.DS_Store

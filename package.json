@@ -1,0 +1,12 @@
+{
+  "name": "stock_ticker_symbol_lookup",
+  "version": "1.0.0",
+  "lockfileVersion": 1,
+  "requires": true,
+  "dependencies": {
+  },
+  "scripts": {
+    "start" : "node ./application/server.js",
+    "cluster": "node ./application/cluster.js"
+  }
+}
