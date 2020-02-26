@@ -1,6 +1,3 @@
-const fsPromises = require("fs").promises;
-const fs = require("fs");
-const path = require('path');
 const dataService = require('../services/data.service.js');
 const logger = require("../services/log.service.js");
 

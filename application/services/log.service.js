@@ -1,6 +1,3 @@
-const https = require('https');
-const requestHelper = require('../helpers/request.helper.js');
-
 class LogService {
     constructor(logger = console){
         this._messages = [];
