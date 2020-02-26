@@ -4,7 +4,7 @@ To run locally checkout the repository and run
 
 After that the application will be accessible via browser e.g.: 
 
-`http://0.0.0.0:3000/symbol/atvi
+http://0.0.0.0:3000/symbol/atvi
 
 Curl command to retrieve data from api:
 
